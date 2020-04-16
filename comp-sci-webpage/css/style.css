@@ -246,9 +246,9 @@ a:hover, a:focus {
 	transition: background 150ms ease, color 150ms ease, border-color 150ms ease;
 }
 .btn:hover, .btn:focus {
-	color: #6818a5;
+	color: #fd7e14;
 	background: #feffff;
-	border-color: #6818a5;
+	border-color: #fd7e14;
 }
 .btn-inline-wrap {
 	display: inline-block;
@@ -326,6 +326,7 @@ a:hover, a:focus {
 	background: #282829;
 }
 .profiles .fill, .cta .inner {
+	height: 650px;
 	width: 353px;
 	max-width: 100%;
 	margin: 28px auto;
@@ -340,7 +341,7 @@ a:hover, a:focus {
 	padding: 15px;
 }
 .profiles h3, .cta h3 {
-	color: #6818a5;
+	color: #fd7e14;
 }
 .profiles .line {
 	background: #282829;
@@ -489,7 +490,7 @@ a:hover, a:focus {
 	margin-top: 20px;
 	width: 62px;
 	height: 35px;
-	background-color: #6818a5;
+	background-color: #fd7e14;
 	position: absolute;
 	z-index: 10;
 	left: 0px;
@@ -499,7 +500,7 @@ a:hover, a:focus {
 	content: " ";
 	width: 0;
 	height: 0;
-	border-bottom: 17px solid #6818a5;
+	border-bottom: 17px solid #fd7e14;
 	border-left: 31px solid transparent;
 	border-right: 31px solid transparent;
 	position: absolute;
@@ -511,7 +512,7 @@ a:hover, a:focus {
 	width: 0;
 	position: absolute;
 	bottom: -17px;
-	border-top: 17px solid #6818a5;
+	border-top: 17px solid #fd7e14;
 	border-left: 31px solid transparent;
 	border-right: 31px solid transparent;
 	left: 0;
