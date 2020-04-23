@@ -1,4 +1,4 @@
-var BucketName = "cs-dept-files";
+var BucketName = "cd-dept-files";
 var bucketRegion = "us-east-2";
 var IdentityPoolId = "us-east-2:9f572ebe-f715-410d-a40d-35cfff5d268c";
 
@@ -32,7 +32,7 @@ function addFile() {
       ACL: "public-read"
     }
   });
-  
+
   var promise = upload.promise();
 
   promise.then(
